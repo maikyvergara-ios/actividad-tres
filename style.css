@@ -99,3 +99,12 @@
     color: #a8a29e; /* Stone 400 */
     line-height: 1.5;
 }
+.btn-primary {
+    background-color: #f97316;
+    color: #1c1917;
+    text-decoration: none;
+    padding: 12px 30px;
+    border-radius: 30px;
+    font-size: 1rem;
+    font-weight: bold;
+}
