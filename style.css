@@ -10,3 +10,11 @@
     height: 100vh;
     overflow: hidden;
 }
+.header {
+    background-color: #292524; /* Stone 800 */
+    padding: 15px 50px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    box-sizing: border-box;
+}
